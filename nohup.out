@@ -1,0 +1,70 @@
+[4mRunning "jshint:all" (jshint) task[24m
+[32m>> [39m53 files lint free.
+
+[4mRunning "csslint:all" (csslint) task[24m
+[32m>> [39m2 files lint free.
+
+[4mRunning "concurrent:default" (concurrent) task[24m
+[4mRunning "watch" task[24m
+[4mRunning "nodemon:dev" (nodemon) task[24m
+Waiting...
+[33m[nodemon] v1.2.1[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: app/views/**/*.* gruntfile.js server.js config/**/*.js app/**/*.js[39m
+[32m[nodemon] starting `node --debug server.js`[39m
+[31mFatal error: EBADF, read[39m
+debugger listening on port 5858
+    [33mWarning:  [4mUsed --force, continuing.[24m[39m
+        
+    
+    [4mRunning "jshint:all" (jshint) task[24m
+[32m>> [39m53 files lint free.
+
+[4mRunning "csslint:all" (csslint) task[24m
+[32m>> [39m2 files lint free.
+
+[4mRunning "concurrent:default" (concurrent) task[24m
+[4mRunning "watch" task[24m
+[4mRunning "nodemon:dev" (nodemon) task[24m
+Waiting...
+[31mFatal error: Port 35729 is already in use by another process.[39m
+    [33mWarning:  [4mUsed --force, continuing.[24m[39m
+        
+    
+    [33m[nodemon] v1.2.1[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: app/views/**/*.* gruntfile.js server.js config/**/*.js app/**/*.js[39m
+[32m[nodemon] starting `node --debug server.js`[39m
+debugger listening on port 5858
+[31mFatal error: EBADF, read[39m
+    [33mWarning:  [4mUsed --force, continuing.[24m[39m
+        
+    
+    
+[31mDone, but with warnings.[39m
+[32m>> [39mFile "app/views/layout.server.view.html" changed.
+[36mCompleted in 0.006s at Sun Oct 05 2014 10:34:45 GMT-0400 (EDT)[39m - Waiting...
+[32m>> [39mFile "app/views/layout.server.view.html" changed.
+[36mCompleted in 0.000s at Sun Oct 05 2014 10:34:47 GMT-0400 (EDT)[39m - Waiting...
+[32m>> [39mFile "app/views/layout.server.view.html" changed.
+[36mCompleted in 0.001s at Sun Oct 05 2014 10:35:14 GMT-0400 (EDT)[39m - Waiting...
+[4mRunning "jshint:all" (jshint) task[24m
+[32m>> [39m53 files lint free.
+
+[4mRunning "csslint:all" (csslint) task[24m
+[32m>> [39m2 files lint free.
+
+[4mRunning "concurrent:default" (concurrent) task[24m
+[4mRunning "watch" task[24m
+[4mRunning "nodemon:dev" (nodemon) task[24m
+Waiting...
+[33m[nodemon] v1.2.1[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: app/views/**/*.* gruntfile.js server.js config/**/*.js app/**/*.js[39m
+[32m[nodemon] starting `node --debug server.js`[39m
+debugger listening on port 5858
+[31mFatal error: EBADF, read[39m
+    [33mWarning:  [4mUsed --force, continuing.[24m[39m
+        
+    
+    
